@@ -1,0 +1,35 @@
+_repo: Die-Liebesbriefe-der-Marquise_42617
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Braun, Lily
+    aliases:
+    - Braun-Gizycki, Lily
+    - Gizycki, Lily von
+    - Kretschmann, Lily von
+    - Kretschmann, Amalie von
+    birthdate: 1865
+    deathdate: 1916
+    gutenberg_agent_id: '5360'
+    url: http://www.gutenberg.org/2009/agents/5360
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Lily_Braun
+    - http://en.wikipedia.org/wiki/Lily_Braun
+description: ''
+gutenberg_issued: '2013-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42617'
+  lccn: '13000473'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: Die Liebesbriefe der Marquise
+url: http://www.gutenberg.org/ebooks/42617
