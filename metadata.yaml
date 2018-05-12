@@ -19,6 +19,8 @@ creator:
     - http://de.wikipedia.org/wiki/Lily_Braun
     - http://en.wikipedia.org/wiki/Lily_Braun
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42617#Die-Liebesbriefe-der-Marquise
 gutenberg_issued: '2013-04-29'
 gutenberg_type: Text
 identifiers:
